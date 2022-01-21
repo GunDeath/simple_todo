@@ -1,0 +1,15 @@
+.myBtn{
+    padding: 5px 20px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.myBtn:hover{
+    background: red;
+    color: white;
+}

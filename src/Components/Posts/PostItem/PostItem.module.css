@@ -1,0 +1,24 @@
+.item__block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid teal;
+    padding: 10px 15px;
+    margin: 10px 0;
+}
+
+.text__block{
+    width: 85%;
+}
+
+.text__block_h2{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.text__block_body{
+    text-align: justify;
+    font-style: italic;
+    font-size: 12px;
+}
