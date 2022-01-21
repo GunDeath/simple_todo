@@ -1,0 +1,14 @@
+.App{
+    width: 1200px;
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.app_right__block{
+    width: 70%;
+}
+
+.app_left__block{
+    width: 25%;
+}
